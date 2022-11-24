@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rcostagomes/projeto12-tweteroo"
+    "url": "git+https://github.com/rcostagomes/projeto12-tweteroo.git"
   },
   "dependencies": {
     "cors": "^2.8.5",
@@ -17,5 +17,12 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/rcostagomes/projeto12-tweteroo/issues"
+  },
+  "homepage": "https://github.com/rcostagomes/projeto12-tweteroo#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
